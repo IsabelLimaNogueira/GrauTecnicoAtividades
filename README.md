@@ -12,7 +12,7 @@ Este espaço visa não apenas centralizar os materiais produzidos por mim, mas t
 **Grau Técnico**  
 Curso Técnico em Informática  
 Período letivo: **2025/2027**
-
+E-mail:in6261304@gmail.com
 ---
 
 > Este repositório é de uso acadêmico e visa apoiar o processo de ensino-aprendizagem.
