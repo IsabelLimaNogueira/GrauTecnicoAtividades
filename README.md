@@ -1,7 +1,7 @@
  📘 Repositório de Atividades – Curso Técnico em Informática
  Introdução
 
-Este repositório tem como finalidade organizar e disponibilizar as atividades desenvolvidas em sala de aula do **Curso Técnico em Informática** do **Grau Técnico**, durante o período letivo de **2025/2026**.
+Este repositório tem como finalidade organizar e disponibilizar as atividades desenvolvidas em sala de aula do **Curso Técnico em Informática** do **Grau Técnico**, durante o período letivo de **2025/2027**.
 
 As atividades aqui registradas contemplam conteúdos teóricos e práticos abordados ao longo do curso, abrangendo disciplinas fundamentais da área de informática, como lógica de programação, desenvolvimento de sistemas, redes de computadores, banco de dados, entre outras.
 
